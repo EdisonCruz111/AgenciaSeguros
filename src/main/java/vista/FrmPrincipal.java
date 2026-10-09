@@ -9,6 +9,7 @@ import modelo.Usuario;
 /**
  *
  * @author deino
+ * //Prueba de commit github
  */
 public class FrmPrincipal extends javax.swing.JFrame {
     
